@@ -1,13 +1,6 @@
-+++ 
-date = 2023-06-05T09:46:12-04:00
-title = ""
-description = ""
-slug = ""
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
-+++
+---
+title: "About"
+date: 2023-06-05T08:02:05-04:00
+---
 
 about me.
