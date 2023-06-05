@@ -12,7 +12,7 @@ style = "github"
 [params]
   description = "David's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/colorful.jpg"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
@@ -22,7 +22,7 @@ style = "github"
   enableTwemoji = true
 
   colorScheme = "light"
-  hidecolorschemetoggle = false
+  hidecolorschemetoggle = true
 
   # customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
@@ -45,14 +45,13 @@ style = "github"
   name = "LinkedIn"
   icon = "fa fa-linkedin fa-2x"
   weight = 2
-  url = "https://www.slinkedin.com/in/davidmhammer/"
+  url = "https://www.linkedin.com/in/davidmhammer/"
 
   [[params.social]]
   name = "RSS"
   icon = "fa fa-rss fa-2x"
   weight = 3
   url = "https://www.hammer.nyc/index.xml"
-
 
 # Menu links
 [[menu.main]]
