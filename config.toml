@@ -12,7 +12,7 @@ style = "github"
 [params]
   description = "David's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/colorful.jpg"
+  avatarurl = "images/shape.jpg"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"

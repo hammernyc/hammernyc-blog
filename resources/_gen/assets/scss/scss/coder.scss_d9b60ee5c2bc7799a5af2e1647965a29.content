@@ -3230,6 +3230,7 @@ figure {
 .wrapper {
   display: flex;
   flex-direction: column;
+  max-height: 100vh;
   min-height: 100vh;
   width: 100%; }
 
@@ -3328,7 +3329,7 @@ figure {
 .avatar img {
   width: 20rem;
   height: auto;
-  border-radius: 50%; }
+  border-radius: 10%; }
   @media only screen and (max-width: 768px) {
     .avatar img {
       width: 10rem; } }
